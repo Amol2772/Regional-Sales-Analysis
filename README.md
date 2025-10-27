@@ -1,10 +1,5 @@
 # 🧩 Regional Sales Analysis | EDA + Power BI Dashboard
 
-![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
-![Pandas](https://img.shields.io/badge/Pandas-EDA%20Analysis-yellow)
-![PowerBI](https://img.shields.io/badge/PowerBI-Dashboard-green)
-![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
-
 ## 📘 Project Overview
 This project focuses on analyzing **regional sales performance** using **Python (EDA)** and **Power BI**.  
 The goal was to uncover insights about sales trends, top-performing regions, and revenue drivers through data cleaning, visualization, and business intelligence tools.

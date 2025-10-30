@@ -77,6 +77,6 @@ The goal of this analysis is to:
 
 ## 👨‍💻 Author
 
-**Amol2772**  
+**Amol Sutar**  
 📅 *Last Updated:* October 2025  
-📫 [GitHub Profile](https://github.com/Amol2772)
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/amol-sutar-063a9b22b)

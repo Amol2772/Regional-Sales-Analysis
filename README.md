@@ -1,55 +1,82 @@
-# 🧩 Regional Sales Analysis | EDA + Power BI Dashboard
+# 📊 EDA on Regional Sales Analysis
+
+This project focuses on performing **Exploratory Data Analysis (EDA)** on regional sales data to uncover insights, trends, and performance patterns across products, channels, and geographies.
+
+---
 
 ## 📘 Project Overview
-This project focuses on analyzing **regional sales performance** using **Python (EDA)** and **Power BI**.  
-The goal was to uncover insights about sales trends, top-performing regions, and revenue drivers through data cleaning, visualization, and business intelligence tools.
+
+The goal of this analysis is to:
+- Identify top-performing regions and products.  
+- Examine sales trends over time.  
+- Understand customer and channel behavior.  
+- Generate actionable insights for business strategy.
 
 ---
 
-## 🚀 Key Objectives
-- Perform **Exploratory Data Analysis (EDA)** to identify trends and anomalies.  
-- Clean and preprocess raw sales data for accurate reporting.  
-- Build a **Power BI dashboard** for interactive visualizations.  
-- Derive actionable insights for better business decision-making.
+## 🧠 Key Objectives
+
+- Analyze regional sales distribution.  
+- Compare product and channel performance.  
+- Detect growth opportunities across customer segments.  
+- Visualize geographical and customer-based insights.  
 
 ---
 
-## 📂 Project Files
+## ⚙️ Tools & Libraries Used
+
+- Python 🐍  
+- Pandas  
+- NumPy  
+- Matplotlib  
+- Seaborn  
+- Jupyter Notebook  
+
+---
+
+## 📁 Files in This Repository
+
 | File Name | Description |
 |------------|-------------|
-| `EDA_Regional_Sales_Analysis.ipynb` | Jupyter Notebook with full data cleaning and EDA process |
-| `Regional Sales Dataset.xlsx` | Raw dataset containing regional sales data |
-| `Sales_data(EDA Exported).csv` | Cleaned and processed data ready for visualization |
-| `SALES REPORT.pbix` | Power BI dashboard showcasing final insights |
+| `EDA_Regional_Sales_Analysis.ipynb` | Main Jupyter Notebook containing all analysis and visualizations |
+| `Executive_Overview and Trends.png` | Executive summary dashboard with sales trends |
+| `Product and Channel performance.png` | Insights into product category and channel performance |
+| `Geographic and Customer insights.png` | Regional and customer demographic analysis |
 
 ---
 
-## 🧠 Technologies & Tools
-- **Python Libraries:** pandas, numpy, matplotlib, seaborn, plotly  
-- **Visualization:** Power BI  
-- **IDE:** Jupyter Notebook  
-- **Dataset Format:** Excel & CSV  
+## 🖼️ Dashboards & Visuals
+
+### 📈 Executive Overview & Trends  
+![Executive Overview and Trends](Executive%20Overview%20and%20Trends.png)
+
+### 🏷️ Product and Channel Performance  
+![Product and Channel performance](Product%20and%20Channel%20performance.png)
+
+### 🌍 Geographic and Customer Insights  
+![Geographic and Customer insights](Geographic%20and%20Customer%20insights.png)
 
 ---
 
-## 📊 Insights Highlight
-- Identified top-performing regions contributing to overall sales.  
-- Seasonal and product-level trends discovered through time-series analysis.  
-- Built KPI metrics such as **Total Sales**, **Profit Margin**, and **Region-wise Contribution**.
+## 📌 Summary of Insights
+
+- **Region A** shows consistent growth in Q3–Q4.  
+- **Product X** dominates across multiple regions.  
+- **Online channels** are outperforming offline ones.  
+- **Customer segment B** shows high retention and purchase frequency.
 
 ---
 
-## ⚙️ Installation & Setup
-To run the notebook locally:
+## 🚀 Future Improvements
 
-```bash
-# Clone the repository
-git clone https://github.com/<your-username>/Regional-Sales-Analysis.git
-cd Regional-Sales-Analysis
+- Automate EDA pipeline for real-time data updates.  
+- Integrate Power BI or Streamlit for interactive dashboards.  
+- Include predictive analytics for sales forecasting.
 
-# Install dependencies
-pip install -r requirements.txt
+---
 
-# Launch Jupyter Notebook
-jupyter notebook
+## 👨‍💻 Author
 
+**Amol2772**  
+📅 *Last Updated:* October 2025  
+📫 [GitHub Profile](https://github.com/Amol2772)
